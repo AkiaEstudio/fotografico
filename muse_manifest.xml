@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530553483258">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530554747129">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-p_g_-maestra.css" crc="4186776919" ref="anuarios:servicios:nosotros:index:contacto:lugares"/>
@@ -11,8 +11,8 @@
     <file name="nomq_nosotros.css" crc="75972607" ref="nosotros"/>
     <file name="index.css" crc="38585079" ref="index"/>
     <file name="nomq_index.css" crc="3814064098" ref="index"/>
-    <file name="contacto.css" crc="128896181" ref="contacto"/>
-    <file name="nomq_contacto.css" crc="134098577" ref="contacto"/>
+    <file name="contacto.css" crc="225122558" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="33289934" ref="contacto"/>
     <file name="lugares.css" crc="213913889" ref="lugares"/>
     <file name="nomq_lugares.css" crc="249566558" ref="lugares"/>
   </folder>
@@ -25,7 +25,6 @@
     <file name="imagen-6.png" crc="495867557" seo="true" mt="1529694238000"/>
     <file name="imagen-7.png" crc="3985874321" seo="true" mt="1530228375000"/>
     <file name="imagen-8.png" crc="314447430" seo="true" mt="1530228510000"/>
-    <file name="mapa.png" crc="4121492878" seo="true" mt="1530553113000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
@@ -275,6 +274,13 @@
     <file name="contacto.png" crc="423236073" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
+    <file name="mapa.jpg" crc="431348681" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
     <file name="contacto-crop-u22653.png" crc="4106777671" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
@@ -343,10 +349,10 @@
       <caption webpage="anuarios" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3934795598" seo="true" mt="1530553411994" redirect="true"/>
+  <file name="index.html" crc="80170578" seo="true" mt="1530553411994" redirect="true"/>
   <file name="nosotros.html" crc="510754102" seo="true" mt="1530553411994" redirect="true"/>
   <file name="lugares.html" crc="500721000" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="servicios.html" crc="3804364461" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="contacto.html" crc="222718150" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="anuarios.html" crc="4244759838" seo="true" mt="1530553411994" redirect="true"/>
+  <file name="servicios.html" crc="362965482" seo="true" mt="1530553411994" redirect="true"/>
+  <file name="contacto.html" crc="514569742" seo="true" mt="1530554689774" redirect="true"/>
+  <file name="anuarios.html" crc="3936208379" seo="true" mt="1530553411994" redirect="true"/>
 </manifest>

@@ -22,6 +22,15 @@
     </image:image>
   </url>
   <url>
+    <loc>http://akiaestudio.com/anuarios.html</loc>
+    <lastmod>2018-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://akiaestudio.com/images/aquia%20logo-01.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://akiaestudio.com/contacto.html</loc>
     <lastmod>2018-07-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,15 +52,6 @@
     </image:image>
     <image:image>
       <image:loc>http://akiaestudio.com/images/contacto-crop-u226534.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://akiaestudio.com/anuarios.html</loc>
-    <lastmod>2018-07-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://akiaestudio.com/images/aquia%20logo-01.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -127,12 +127,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akiaestudio.com/assets/mapa.png</loc>
-    <lastmod>2018-07-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://akiaestudio.com/assets/imagen-1.png</loc>
     <lastmod>2018-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,14 +145,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akiaestudio.com/assets/imagen-7.png</loc>
-    <lastmod>2018-06-28</lastmod>
+    <loc>http://akiaestudio.com/assets/imagen-2.png</loc>
+    <lastmod>2018-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akiaestudio.com/assets/imagen-2.png</loc>
-    <lastmod>2018-06-22</lastmod>
+    <loc>http://akiaestudio.com/assets/imagen-7.png</loc>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
