@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530554747129">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530558379241">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-p_g_-maestra.css" crc="4186776919" ref="anuarios:servicios:nosotros:index:contacto:lugares"/>
@@ -349,10 +349,10 @@
       <caption webpage="anuarios" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="80170578" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="nosotros.html" crc="510754102" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="lugares.html" crc="500721000" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="servicios.html" crc="362965482" seo="true" mt="1530553411994" redirect="true"/>
-  <file name="contacto.html" crc="514569742" seo="true" mt="1530554689774" redirect="true"/>
-  <file name="anuarios.html" crc="3936208379" seo="true" mt="1530553411994" redirect="true"/>
+  <file name="index.html" crc="241718162" seo="true" mt="1530558236370" redirect="true"/>
+  <file name="nosotros.html" crc="416316264" seo="true" mt="1530558236370" redirect="true"/>
+  <file name="lugares.html" crc="229781900" seo="true" mt="1530558236370" redirect="true"/>
+  <file name="servicios.html" crc="3998417339" seo="true" mt="1530558236370" redirect="true"/>
+  <file name="contacto.html" crc="3981543735" seo="true" mt="1530558236370" redirect="true"/>
+  <file name="anuarios.html" crc="320451107" seo="true" mt="1530558236370" redirect="true"/>
 </manifest>

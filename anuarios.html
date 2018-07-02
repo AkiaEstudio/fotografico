@@ -117,7 +117,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div id="u12494"><!-- group -->
         <div class="clearfix" id="u12494_align_to_page">
          <div class="clearfix grpelem" id="u12495"><!-- group -->
-          <a class="nonblock nontext grpelem" id="u12497" href="https://facebook.com/kayros.vargasfernandez" target="_blank"><!-- simple frame --></a>
+          <a class="nonblock nontext grpelem" id="u12497" href="https://www.facebook.com/imprentakayros" target="_blank"><!-- simple frame --></a>
           <a class="nonblock nontext grpelem" id="u12496" href="https://instagram.com/akiafotografia" target="_blank"><!-- simple frame --></a>
          </div>
         </div>
@@ -450,6 +450,14 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1360', '#bp_1300', '#bp_1100', '#bp_1024'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+$('#bp_1360').one('muse_this_bp_activate', function(){
+$('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
+$('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1024').one('muse_this_bp_activate', function(){
+$('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
+$('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
 $('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
@@ -466,14 +474,6 @@ $('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infi
 $('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1100').one('muse_this_bp_activate', function(){
-$('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
-$('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1360').one('muse_this_bp_activate', function(){
-$('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
-$('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1024').one('muse_this_bp_activate', function(){
 $('#u36680').registerOpacityScrollEffect([{"opacity":0,"fade":172.05,"in":[-Infinity,373.05]},{"opacity":100,"in":[373.05,373.05]},{"opacity":100,"fade":50,"in":[373.05,Infinity]}], $(this)); /* scroll effect */
 $('#u36683').registerOpacityScrollEffect([{"opacity":0,"fade":211.05,"in":[-Infinity,865]},{"opacity":100,"in":[865,865]},{"opacity":100,"fade":50,"in":[865,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
